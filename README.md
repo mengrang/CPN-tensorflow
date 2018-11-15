@@ -1,4 +1,4 @@
-# cpn_tensorflow
+# CascadedPyramidNetwork-tensorflow
 
 Re-implement [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319) (CPN) in Tensorflow.
 
