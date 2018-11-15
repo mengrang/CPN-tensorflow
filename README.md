@@ -4,7 +4,7 @@ Re-implement [Cascaded Pyramid Network for Multi-Person Pose Estimation](https:/
 
 ## Motivation
 
-**The code is for FashionAI costume key point positioning global challenge**
+### **The code is for FashionAI costume key point positioning global challenge**
 - Name of the competition: **Tianchi FashionAI costume key point positioning global challenge**
 - Team Name: **AILAB-ZJU**
 - Rank of the first season: **70/2322**
