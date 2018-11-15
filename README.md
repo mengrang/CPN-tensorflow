@@ -31,7 +31,7 @@ First, install tensorflow, then installsome python packages:
 
 ## TODO
 
-- [] Model conpression for fast pose estimation
+- [ ] Model conpression for fast pose estimation
 
 
 
